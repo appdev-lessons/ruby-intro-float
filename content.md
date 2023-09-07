@@ -17,7 +17,7 @@ pp 5.0.class
 
 ### + - * / ** (math) 
 
-The math methods work mostly like you'd expect, and similarly to the [ones for integers](https://learn.firstdraft.com/lessons/70#-------math).
+The math methods work mostly like you'd expect, and similarly to the [ones for integers](https://learn.firstdraft.com/lessons/70-ruby-intro-integer#-------math).
 
 The main difference to keep in mind is with `/`. Division with floats works the way that we're used to — it returns fractional results, as a `Float`:
 
